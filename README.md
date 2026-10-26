@@ -46,3 +46,6 @@ Berdasarkan data contoh, program menghasilkan:
 
 ## Refleksi
 Melalui latihan ini, saya mempelajari cara mengelola file menggunakan Python, memproses data per baris, dan menangani kesalahan menggunakan `try-except`. Program rekap juga membantu memahami penggunaan fungsi untuk mengolah data dan menyimpan hasilnya ke file.
+
+## Catatan Pengembangan
+Proyek ini terdiri dari enam latihan dan satu tugas utama rekap nilai mahasiswa.
