@@ -49,3 +49,6 @@ Melalui latihan ini, saya mempelajari cara mengelola file menggunakan Python, me
 
 ## Catatan Pengembangan
 Proyek ini terdiri dari enam latihan dan satu tugas utama rekap nilai mahasiswa.
+
+## Evaluasi Pembelajaran
+Program telah diuji untuk membaca file, memproses data valid, melewati data tidak valid, dan menyimpan hasil rekap.
